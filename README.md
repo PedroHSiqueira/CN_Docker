@@ -10,6 +10,9 @@ Executando o Contêiner
 
     docker run -d -p 8080:8080 seu-nome-de-imagem
 
+Docker PS
+    ![image](https://github.com/user-attachments/assets/59816b6f-8971-428b-8261-985d04448559)
+
 Dockerfile:
 
     Imagem Base:
